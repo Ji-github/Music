@@ -1,0 +1,8 @@
+.lixLnt .header-group .header-item:nth-child(3) {
+    width: 0;
+    padding: 0;
+}
+.lixLnt .header-group .header-item:nth-child(2) {
+    width: 0;
+    padding: 0;
+}
